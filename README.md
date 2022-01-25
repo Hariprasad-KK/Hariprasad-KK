@@ -9,8 +9,6 @@
 - 🙌 I’m looking for some New Collaborations for projects.
  
 - 💬 Ask me abouts Basics of Web development. 
- 
-- ⚡ Fun fact: Not Here.. 😂
 <hr>
 <h3 align="left">Ping Me!</h3>
 <p align="left">
