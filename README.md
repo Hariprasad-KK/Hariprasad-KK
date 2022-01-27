@@ -48,5 +48,5 @@
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hariprasad-KK&" alt="Hariprasad-KK" /></p>
 ### LEETCODE STATS
-
+![LeetCode Stats](https://leetcode.card.workers.dev/hariprasad_kk?theme=nord&font=baloo&extension=null)
 
