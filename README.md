@@ -15,7 +15,8 @@
 <a href="https://www.linkedin.com/in/hariprasad-k-k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hariprasad K K" height="30" width="40" /></a>
  <a href="https://www.instagram.com/hariprasad_kk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hariprasad_kk" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/hariprasadkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Hariprasad KK" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100004385596616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hariprasad KK" height="30" width="40" /></a><br>
+<a href="https://www.facebook.com/profile.php?id=100004385596616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hariprasad KK" height="30" width="40" /></a>
+ <a href="https://leetcode.com/Arunbala/" target="blank"><img color="white"  align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/Arunbala/" height="30" width="40" /></a><br>
  <h3>Personal Portfolio</h3>
 <a href="https://github.com/Hariprasad-KK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Haripraad_KK" height="30" width="40" /></a>
 </p>
