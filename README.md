@@ -49,4 +49,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hariprasad-KK&" alt="Hariprasad-KK" /></p>
 ### LEETCODE STATS
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hariprasad-KK&layout=compact)](https://github.com/Hariprasad-KK/github-readme-stats)
