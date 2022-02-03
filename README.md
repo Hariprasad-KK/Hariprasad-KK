@@ -51,4 +51,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hariprasad-KK&layout=compact)](https://github.com/Hariprasad-KK/github-readme-stats)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hariprasad-KK&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=Hariprasad-KK&theme=nord)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=Hariprasad-KK&theme=nord)(https://github.com/ashutosh00710/github-readme-activity-graph)(https://leetcode.com/hariprasad_kk)
