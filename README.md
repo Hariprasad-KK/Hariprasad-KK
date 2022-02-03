@@ -40,7 +40,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
   <hr>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hariprasad-KK&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hariprasad-KK&show_icons=true&locale=en&layout=compact" alt="Hariprasad-KK" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hariprasad-KK&show_icons=true&locale=en" alt="Hariprasad-KK" /></p>
@@ -48,7 +48,7 @@
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hariprasad-KK&" alt="Hariprasad-KK" /></p>
 
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hariprasad-KK&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=hariprasad_kk&theme=nord)
 
 
