@@ -41,7 +41,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
   <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hariprasad-KK&show_icons=true&locale=en&layout=compact&theme=yeblu" alt="Hariprasad-KK" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hariprasad-KK&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Hariprasad-KK" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hariprasad-KK&show_icons=true&locale=en&theme=github_dark" alt="Hariprasad-KK" /></p>
 <br>
@@ -49,7 +49,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hariprasad-KK&" alt="Hariprasad-KK" /></p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hariprasad-KK&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=hariprasad_kk&theme=nord)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=hariprasad_kk&theme=vision-friendly-dark)
 
 
 
