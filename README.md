@@ -49,7 +49,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hariprasad-KK&" alt="Hariprasad-KK" /></p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hariprasad-KK&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=hariprasad_kk&theme=vision-friendly-dark)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=hariprasad_kk&theme=nord)
 
 
 
