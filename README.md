@@ -8,7 +8,7 @@
  
 - 🙌 I’m looking for some New Collaborations for projects.
  
-- 💬 Ask me abouts Basics of Web development. 
+- 💬 Ask me abouts Basics of Web & App development. 
 <hr>
 <h3 align="left">Connect With Me 👇 </h3>
 <p align="left">
