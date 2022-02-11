@@ -1,5 +1,5 @@
 # Heyy All✌
-
+# A learning Tech enthusiast 🧑‍💻
 - 🔭 I’m currently pursuing B.tech computer Science and Engineering.
  
 - 🌱 I’m currently Mastering Competitive Programming Skills.
