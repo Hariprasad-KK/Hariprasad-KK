@@ -6,7 +6,7 @@
  
 - 🎯 Interested in solving realtime problems with less runtime.
  
-- 🙌 I’m looking for some New Collaborations for projects.
+- 🙌 I’m looking for some New Collaborations of projects.
  
 - 💬 Ask me abouts Basics of Web & App development . 
 
