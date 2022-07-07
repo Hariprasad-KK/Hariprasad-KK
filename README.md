@@ -8,7 +8,7 @@
  
 - 🙌 I’m looking for some New Collaborations of projects.
  
-- 💬 Ask me abouts Basics of Web & App development . 
+- 💬 Ask me abouts  Basics of Web & App development . 
 
 
 ![](https://komarev.com/ghpvc/?username=Hariprasad-KK&style=flat-square&label=View%20Count)
