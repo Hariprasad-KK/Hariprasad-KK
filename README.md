@@ -4,7 +4,7 @@
  
 - 🌱 I’m currently Mastering Competitive Programming Skills.
  
-- 🎯 Interested in solving realtime  problems with less runtime.
+- 🎯 Interested in solving realtime problems with less runtime.
  
 - 🙌 I’m looking for some New Collaborations of projects.
  
